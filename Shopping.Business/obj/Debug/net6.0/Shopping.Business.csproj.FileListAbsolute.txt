@@ -1,0 +1,17 @@
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\bin\Debug\net6.0\Shopping.Business.deps.json
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\bin\Debug\net6.0\Shopping.Business.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\bin\Debug\net6.0\Shopping.Business.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\bin\Debug\net6.0\Shopping.DAL.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\bin\Debug\net6.0\ShoppingAPI.Entity.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\bin\Debug\net6.0\Shopping.DAL.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\bin\Debug\net6.0\ShoppingAPI.Entity.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.csproj.AssemblyReference.cache
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.AssemblyInfoInputs.cache
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.AssemblyInfo.cs
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.csproj.CopyComplete
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\refint\Shopping.Business.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\Shopping.Business.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\Shopping.Business\obj\Debug\net6.0\ref\Shopping.Business.dll

@@ -1,0 +1,11 @@
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\bin\Debug\net6.0\ShoppingAPI.Helper.deps.json
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\bin\Debug\net6.0\ShoppingAPI.Helper.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\bin\Debug\net6.0\ShoppingAPI.Helper.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\ShoppingAPI.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\ShoppingAPI.Helper.AssemblyInfoInputs.cache
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\ShoppingAPI.Helper.AssemblyInfo.cs
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\ShoppingAPI.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\ShoppingAPI.Helper.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\refint\ShoppingAPI.Helper.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\ShoppingAPI.Helper.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingAPI\ShoppingAPI.Helper\obj\Debug\net6.0\ref\ShoppingAPI.Helper.dll
